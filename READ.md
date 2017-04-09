@@ -13,7 +13,7 @@ source ```"run_analysis.R``` will automatically execute the full script in the f
 * Creates a second, independent tidy data set with the average of each variable for each activity and subject
 
 ### Dependencies
-```run_analysis.R ``` is dependent on two packages: ```data.table``` and ```reshape2```. This automatically 
+```run_analysis.R ``` is dependent on two packages: ```data.table``` and ```reshape2```. This script automatically 
 installs both packages, if it is not already installed.
 
 ### Steps required to execute this project
