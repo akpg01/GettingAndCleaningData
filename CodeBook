@@ -1,8 +1,10 @@
-# Project Title
+# Code Book
 
-One Paragraph of project description goes here
+Describes the variables, the data and the transformations or work that was performed to clean up the data.
 
-## Getting Started
+## Original source of Data
+* [Description of data set]: (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+* [Data used in this project]: (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
