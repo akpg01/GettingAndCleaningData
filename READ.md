@@ -1,14 +1,22 @@
-# Project Title
+# Getting and Cleaning Data
 
-One Paragraph of project description goes here
+The script, ```run_analysis.R``` prepares tidy data that can be used for later analysis.
 
-## Getting Started
+## run_analysis.R
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+source ```"run_analysis.R``` will automatically execute the full script in the following order.
+* Downloads and reads the training and test sets
+* Merges the training and the test sets to create one data set
+* Extracts only the measurements on the mean and standard deviation for each measurement
+* Uses descriptive activity names to name the activities in the data set
+* Appropriately labels the data with descriptive activity names
+* Creates a second, independent tidy data set with the average of each variable for each activity and subject
 
-### Prerequisites
+### Steps required to execute this project
 
-What things you need to install the software and how to install them
+1. Create a parent folder for this project.
+2. Place ```run_analysis.R```in the parent folder.
+3. Run source("run_analysis.R"). This will generate 
 
 ```
 Give examples
